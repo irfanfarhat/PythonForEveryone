@@ -1,1 +1,1 @@
-print('Python for everybody')
+print('hello world!')
