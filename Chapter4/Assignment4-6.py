@@ -20,4 +20,4 @@ def computepay(h, r):
         return result
 
 pay = computepay(fhours, frateperhour)
-print(pay)
+print('Pay', pay)
