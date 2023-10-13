@@ -1,3 +1,4 @@
+# List is one of the data structure in Python, Data structures provide a way to efficiently store, retrieve, and manipulate data
 # List is a collection allows us to put many values in one variable
 # with normal variables we are storing only one value like name = 'bob' but List allow us to store more than one value in one variable.
 # List are mutable means we can make changes to the list using the index
